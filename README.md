@@ -19,7 +19,7 @@
 
 ## 🎬 프로젝트 구현 영상
 
-- 🔗 [영상 링크] : 추후 재업데이트 예정
+- 🔗 [영상 링크] : https://www.youtube.com/watch?v=F6Sg-UZp1NY
 <br/><br/><br/>
 
 
